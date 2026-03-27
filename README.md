@@ -152,7 +152,7 @@ Always fact-check information from reliable news sources before believing or sha
 
 Created as a Python learning project to explore randomization, string formatting, and interactive user input.
 
-## Feedback
+## Feedback 
 
 Have suggestions or found a bug? Feel free to:
 - Open an issue on GitHub
